@@ -1,6 +1,11 @@
 # Counterfactual Regret Minimization Algorithms in Imperfect Information Games
 
-This repository contains an implementation of several Counterfactual Regret Minimization (CFR) algorithms for solving imperfect information games, focusing on their performance in simplified poker variants. The project aims to provide a clear comparative analysis of the original CFR algorithm and its key modifications, examining their convergence rates and scalability in different game scenarios.
+This repository contains the code and results for my BSc Computer Science dissertation project at Durham University, supervised by Dr. Trehan Amitabh. The project investigates the performance of various Counterfactual Regret Minimization (CFR) algorithms in imperfect information games, with a focus on their convergence rates and scalability. A detailed analysis and discussion of the findings can be found in the accompanying dissertation paper [link to paper if available].
+
+
+## Project Overview
+
+This project aims to provide a clear comparative analysis of the original CFR algorithm and its key modifications, including Discounted CFR (DCFR), CFR+, and Outcome Sampling Monte Carlo CFR (OS-MCCFR). The algorithms are evaluated in Leduc Hold'em and a novel variant, Short Deck Big Leduc Hold'em (SDBLH), which was introduced to assess algorithm scalability in more complex settings.
 
 ## Key Features
 
