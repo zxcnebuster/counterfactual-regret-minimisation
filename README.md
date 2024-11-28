@@ -1,6 +1,6 @@
 # Counterfactual Regret Minimization Algorithms in Imperfect Information Games
 
-This repository contains the code and results for my BSc Computer Science dissertation project at Durham University, supervised by Dr. Trehan Amitabh. The project investigates the performance of various Counterfactual Regret Minimization (CFR) algorithms in imperfect information games, with a focus on their convergence rates and scalability. A detailed analysis and discussion of the findings can be found in the accompanying dissertation paper [link to paper if available].
+This repository contains the code and results for my BSc Computer Science dissertation project at Durham University, supervised by Dr. Trehan Amitabh. The project investigates the performance of various Counterfactual Regret Minimization (CFR) algorithms in imperfect information games, with a focus on their convergence rates and scalability. A detailed analysis and discussion of the findings can be found in the accompanying dissertation paper.
 
 
 ## Project Overview
